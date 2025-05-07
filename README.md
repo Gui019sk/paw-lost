@@ -5,16 +5,16 @@ Um Projeto de um aplicativo para encontrar pets perdidos.
 
 ## 🚀 Instalação e Execução
 1. Clone este repositório:
-   git clone https://github.com/seu-usuario/nome-do-projeto.git
+   git clone https://github.com/Gui019sk/paw-lost.git
 
 2. Acesse a pasta do projeto:
-   cd nome-do-projeto
+   cd paw-lost
 
 3. Instale as dependências:
-   [exemplo] npm install
+   - npm install
 
 4. Execute o projeto:
-   [exemplo] npm start
+   - npm start
 
 ## 🛠 Tecnologias utilizadas
 - Linguagem/framework
