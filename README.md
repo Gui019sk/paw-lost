@@ -25,7 +25,7 @@ Um Projeto de um aplicativo para encontrar pets perdidos.
 - Enzo Nascimento Stempiak (enzostempiak014@gmail.com)
 - Kauã Conceição Della Torre (j4405851@gmail.com)
 
-## Linguagens Utilizadas:
+## 🖥️ Linguagens Utilizadas:
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
