@@ -26,8 +26,8 @@ Um Projeto de um aplicativo para encontrar pets perdidos.
 - Kauã Conceição Della Torre (j4405851@gmail.com)
 
 ## 🖥️ Linguagens Utilizadas:
-[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python,html)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,python,html)](https://skillicons.dev)
+
 
   
   
