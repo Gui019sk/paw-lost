@@ -27,7 +27,7 @@ Um Projeto de um aplicativo para encontrar pets perdidos.
 
 ## 🖥️ Linguagens Utilizadas:
 [![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html)](https://skillicons.dev)
 
   
   
