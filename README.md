@@ -24,5 +24,9 @@ Um Projeto de um aplicativo para encontrar pets perdidos.
 - Guilherme Schiavon (guischiavon2007@outlook.com)
 - Enzo Nascimento Stempiak (enzostempiak014@gmail.com)
 - Kauã Conceição Della Torre (j4405851@gmail.com)
+
+## Linguagens Utilizadas:
+[![My Skills](https://skillicons.dev/icons?i=flutter)](https://skillicons.dev)
+  
   
 
