@@ -1,4 +1,4 @@
-# Paw Lost
+https://capsule-render.vercel.app/api?type=waving&height=272&color=gradient&text=Paw%20Lost&section=header&textBg=false&fontSize=100
 
 ## 📋 Descrição
 Um Projeto de um aplicativo para encontrar pets perdidos.
